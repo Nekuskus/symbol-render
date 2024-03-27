@@ -1,0 +1,12 @@
+body { 
+    font-family: 'Consolas', monospace;
+}
+
+svg g {
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+div#legenda {
+    width: 22%;
+}
